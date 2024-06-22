@@ -1,0 +1,17 @@
+# Git commands
+git status
+git add
+git commit
+git pull
+git fetch
+git push
+git remote -v
+git remote show origin
+
+## git branch commands
+git branch
+git branch -a
+git checkout branchname
+git checkout -b branchname
+git checkout -d branchname
+
